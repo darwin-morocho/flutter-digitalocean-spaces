@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (5.2.2)
+  - Flutter (1.0.0)
+  - flutter_uploader (1.2.0):
+    - Alamofire (= 5.2.2)
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_uploader (from `.symlinks/plugins/flutter_uploader/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_uploader:
+    :path: ".symlinks/plugins/flutter_uploader/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_uploader: 2b07c4d41cf1218f25e6d5b8bcfa2d913838e27c
+
+PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
+
+COCOAPODS: 1.10.1
